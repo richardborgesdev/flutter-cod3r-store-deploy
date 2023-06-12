@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_cod3r_store_deploy">
+    package="br.com.cod3r.calculator">
    <application
-        android:label="flutter_cod3r_store_deploy"
+        android:label="Cod3r calc"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
