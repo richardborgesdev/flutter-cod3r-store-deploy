@@ -18,6 +18,12 @@ flutter pub run flutter_launcher_icons:main
               -keysize 2048 -validity 10000 -alias upload
     ```
 2. seguir documentação https://docs.flutter.dev/deployment/android
-3. Google play console
+3. https://play.google.com/console/about/
     1. configurar
     2. criar release com arquivo: apprelease.aab
+
+
+## Publicar app apple store
+1. https://docs.flutter.dev/deployment/ios
+2. https://developer.apple.com/
+3. 
